@@ -12,9 +12,15 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristian-Barajas09&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div style="display:inline_block"><br>
+  <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="center"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="center" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="center" />
+  <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=java&sort=">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" align="center"/>
+  </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="40" align="center"/>
+  <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" align="center"/>
+  </a>
 </div>
