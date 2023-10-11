@@ -4,7 +4,7 @@
   <li>🌱 Studying Java</li>
   <li>📖 Contact-me my email: cristianbarajasimasc@gmail.com</li>
 </ul>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cristian-Barajas09&label=Profile%20views&color=0e75b6&style=flat" alt="jdrl555" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cristian-Barajas09&label=Profile%20views&color=0e75b6&style=flat" alt="Cristian-Barajas09" /> </p>
 
 <div>
   <a href="https://github.com/Cristian-Barajas09">
