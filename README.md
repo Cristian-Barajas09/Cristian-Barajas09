@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristian-Barajas09&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div style="display:inline_block"><br>
-  <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=python&sort=">
+  <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=javascript&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="center"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="center" />
