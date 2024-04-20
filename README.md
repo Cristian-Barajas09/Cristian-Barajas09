@@ -23,4 +23,14 @@
   <a href="https://github.com/Cristian-Barajas09?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" align="center"/>
   </a>
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yanmfng3eghqmw4otivvdprngm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
+</div>
+
+
+
+
+
